@@ -17,7 +17,6 @@ api.anthropic.com
 api.claude.ai
 api.console.anthropic.com
 api.deepl.com
-api.elevenlabs.io
 api.gcs.garmin.com
 api.github.com
 api.githubcopilot.com
@@ -109,8 +108,6 @@ eagle.sapphire.microsoftapp.net
 edge.microsoft.com
 edge.website.production.linktr.ee
 edgeservices.bing.com
-eleven-public-cdn.elevenlabs.io
-elevenlabs.io
 email.strava.com
 email1.strava.com
 errortracking.deepl.com
@@ -140,7 +137,6 @@ grok.x.ai
 gtm.deepl.com
 gym.openai.com
 hellonotion.com
-help.elevenlabs.io
 help.make.com
 help.openai.com
 help.trainingpeaks.com
@@ -246,7 +242,6 @@ partnerportal.make.com
 partnertraining.make.com
 pay.test.tuta.com
 pay.tuta.com
-payload.elevenlabs.io
 platform.api.openai.com
 platform.openai.com
 platform.zapier.com
@@ -316,7 +311,6 @@ trainingpeaks.com
 transcription.grok-v2.x.ai
 trk.trainingpeaks.com
 trust.x.ai
-try.elevenlabs.io
 tuta.com
 tutanota.com
 typeahead.grok.com
@@ -367,7 +361,6 @@ www.claude.ai
 www.claudeusercontent.com
 www.deepl.com
 www.dev.proxyline.net
-www.elevenlabs.io
 www.grok.com
 www.intercom.io
 www.linktr.ee
